@@ -78,5 +78,3 @@ If you have any questions or want to reach out regarding this project, you can c
 Feel free to update the contact information with your own details.
 
 Make sure to adjust any URLs or paths if needed to match your project's structure.
-
-Note: The content provided above assumes that the actual functionality and implementation of the chat application are correct.
